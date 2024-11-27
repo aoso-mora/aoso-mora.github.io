@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "aqua"  # "default" "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Alan Osorio-Mora"
+title                    : "Alan Osorio Mora"
 title_separator          : "-"
 subtitle                 : personal blog # site tagline that appears below site title in masthead
-name                     : "Alan Osorio-Mora"
+name                     : "Alan Osorio Mora"
 description              : "This is my personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -119,7 +119,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alan Osorio-Mora"
+  name             : "Alan Osorio Mora"
   avatar           : "/assets/images/EURO.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researcher and amateur musician"
   location         : #"Europe"
