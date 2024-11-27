@@ -121,7 +121,7 @@ analytics:
 author:
   name             : "Alan Osorio-Mora"
   avatar           : "/assets/images/EURO.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher and __Amateur__ musician"
+  bio              : "Researcher and amateur musician"
   location         : #"Europe"
   email            : "alan.osoriomora@rptu.de"
   twitter          : "aosoriomora"
