@@ -21,7 +21,7 @@ title                    : "Alan Osorio-Mora"
 title_separator          : "-"
 subtitle                 : personal blog # site tagline that appears below site title in masthead
 name                     : "Alan Osorio-Mora"
-description              : "This is my personal website/blog."
+description              : "This is my personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
