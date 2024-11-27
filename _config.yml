@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "dark"  # "default" "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Alan Osorio"
+title                    : "Alan Osorio Mora"
 title_separator          : "-"
 subtitle                 : Blog # site tagline that appears below site title in masthead
-name                     : "EURO YOUNG"
+name                     : "Alan Osorio Mora"
 description              : "This is my personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
