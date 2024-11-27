@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "aqua"  # "default" "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Alan Osorio Mora"
+title                    : "EUROYoung"
 title_separator          : "-"
-subtitle                 : personal blog # site tagline that appears below site title in masthead
-name                     : "Alan Osorio Mora"
-description              : "This is my personal website."
+subtitle                 : FORUM # site tagline that appears below site title in masthead
+name                     : "EURO YOUNG"
+description              : "This is the site made for showing activities and opportunities for early career researchers in operations research."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,8 +104,7 @@ social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-  - "https://x.com/aosoriomora"
-  #- "https://www.instagram.com/aosorio.m"
+  - "https://x.com/EUROYoungForum"
   
   # An array of links to social media profiles
 
@@ -119,15 +118,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alan Osorio Mora"
+  name             : "EURO Young"
   avatar           : "/assets/images/EURO.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher and amateur musician"
+  bio              : "euroyoung@euro-online.org"
   location         : #"Europe"
-  email            : "alan.osoriomora@rptu.de"
-  twitter          : "aosoriomora"
-  github           : "aoso-mora"
-  #linkedin         : "alanosoriomora"
-  #instagram         : "aosorio.m"
+  email            : "euroyoung@euro-online.org"
+  twitter          : "EUROYoungForum"
+  github           : "EUROYoungForum"
+  #linkedin         : ""
+
   
   links:
     - label: "Email"
@@ -138,32 +137,32 @@ author:
        #url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://x.com/aosoriomora/"
+  #     url: "https://x.com/EUROYoungForum/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/aoso-mora"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-   #    url: "https://instagram.com/aosorio.m"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/aosoriomora"
+      url: "https://x.com/EUROYoungForum"
     #- label: "Email"
      # icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:alan.osoriomora@rptu.de"
+      # url: "mailto:euroyoung@euro-online.org"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       # url:"https://github.com/aoso-mora"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -172,7 +171,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/aosorio.m"
+      # url:
 
 
 # Reading Files
