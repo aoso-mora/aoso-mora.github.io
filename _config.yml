@@ -105,7 +105,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: 
   - "https://x.com/aosoriomora"
-  - "https://www.instagram.com/aosorio.m"
+  #- "https://www.instagram.com/aosorio.m"
   
   # An array of links to social media profiles
 
@@ -126,7 +126,7 @@ author:
   email            : "alan.osoriomora@rptu.de"
   twitter          : "aosoriomora"
   github           : "aoso-mora"
-  linkedin         : "alanosoriomora"
+  #linkedin         : "alanosoriomora"
   #instagram         : "aosorio.m"
   
   links:
