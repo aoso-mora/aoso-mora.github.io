@@ -101,10 +101,10 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 
 social:
-  type                   : Organization # Person or Organization (defaults to Person)
+  type                   : Person # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-  - "https://x.com/EUROYoungForum"
+  - "https://x.com/aosoriomora"
   
   # An array of links to social media profiles
 
@@ -120,11 +120,11 @@ analytics:
 author:
   name             : "Alan Osorio Mora"
   avatar           : "/assets/images/EURO.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Operational Researcher and Amateur musician"
+  bio              : "Operational Researcher | Amateur musician"
   location         : #"Europe"
-  email            : "euroyoung@euro-online.org"
-  twitter          : "EUROYoungForum"
-  github           : "EUROYoungForum"
+  email            : "alan.osoriomora@rptu.de"
+  twitter          : "aosoriomora"
+  github           : "aoso-mora"
   #linkedin         : ""
 
   
@@ -153,7 +153,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/EUROYoungForum"
+      url: "https://x.com/aosoriomora"
     #- label: "Email"
      # icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:euroyoung@euro-online.org"
