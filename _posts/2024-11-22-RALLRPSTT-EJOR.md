@@ -1,5 +1,5 @@
 ---
-title:  "New paper in EJOR!!: A risk-averse latency location-routing problem with stochastic travel times"
+title:  "New paper in EJOR!: A risk-averse latency location-routing problem with stochastic travel times"
 date: November 22, 2024
 show_date: true
 share: false
