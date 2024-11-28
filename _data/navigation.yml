@@ -2,17 +2,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Workshop"
-    url: /workshop/ 
-  - title: "Past Events"
-    url: /pastworkshops/ 
   #- title: "Publications"
    # url: /publications/
   #- title: "Talks"
    # url: /talks/
-  #- title: "Teaching"
-  #  url: /teaching/
-  #- title: "Board"
-  #  url: /board/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Opportunities"
     url: /opportunities/
