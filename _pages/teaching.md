@@ -7,7 +7,7 @@ class: wide
 ---
 
 <p>
-<li><b>Facility location and Networ design</b><br>Summer term 2024</li>
+<li><b>Facility Location and Network Design</b><br>Summer term 2024</li>
 </p>
 
 <p>
