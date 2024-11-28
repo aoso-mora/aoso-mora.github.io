@@ -13,4 +13,4 @@ tag:
 ---
 
 Our new paper "A risk-averse latency location-routing problem with stochastic travel times" co-authored with [Francisco Saldanha da Gama](https://scholar.google.com/citations?user=NPDmx4MAAAAJ&hl=en) and [Paolo Toth](https://scholar.google.com/citations?user=2IPL4XIAAAAJ&hl=en) has been accepted for publication in [The European Journal of Operational Research (EJOR)](https://www.sciencedirect.com/journal/european-journal-of-operational-research).
-Check it out [HERE!](https://www.sciencedirect.com/science/article/pii/S0377221724008440) (open access)
+Check it out [HERE!](https://www.sciencedirect.com/science/article/pii/S0377221724008440) (open access).
