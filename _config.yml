@@ -119,7 +119,7 @@ analytics:
 # Site Author
 author:
   name             : "Alan Osorio Mora"
-  avatar           : "/assets/images/EURO.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Alan-Osorio-Mora.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Operational Researcher | Amateur musician"
   location         : #"Europe"
   email            : "alan.osoriomora@rptu.de"
