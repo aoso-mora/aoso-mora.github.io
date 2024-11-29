@@ -9,8 +9,8 @@ header:
     - label: "Follow my updates:"
       url: "https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ"
 excerpt: >
-  Operational Researcher & Amateur Musician.<br />
- 
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
 feature_row:
   - image_path: /assets/images/header1.jpeg
     alt: "aboutme"
