@@ -148,6 +148,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "ORCID"
+      icon: "/academicons-1.9.4/svg/orcid.svg"
+      url: "https://x.com/aosoriomora"
 
 # Site Footer
 footer:
@@ -173,9 +176,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-          - label: "ORCID"
-      icon: "/academicons-1.9.4/svg/orcid.svg"
-      url: "https://x.com/aosoriomora"
+
 
 
 # Reading Files
