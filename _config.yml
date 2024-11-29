@@ -333,8 +333,8 @@ defaults:
       path: ""
       type: posts
     values:
-      #layout: single
-       layout: splash
+      layout: single
+      # layout: splash
       author_profile: true
       read_time: true
       comments: # true
