@@ -2,7 +2,6 @@
 layout: splash
 permalink: /
 hidden: true
-toc:true
 header:
   overlay_image: /assets/images/header1.jpeg
   caption: "Cuernos del Paine - Parque Nacional Torres del Paine, Chile"
