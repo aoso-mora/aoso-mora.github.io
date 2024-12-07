@@ -44,6 +44,6 @@ Esto es una prueba
  {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
-[comment]: <> ({% include video id="wNFPodmmW_o" provider="youtube" %})
+[comment]: <> ( use brakets to add the video % include video id="wNFPodmmW_o" provider="youtube" %)
 
 
