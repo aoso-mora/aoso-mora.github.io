@@ -6,6 +6,6 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-    - title: "Gallery"
+  - title: "Gallery"
     url: /gallery/
 
