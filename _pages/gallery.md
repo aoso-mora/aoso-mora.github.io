@@ -1,10 +1,10 @@
 ---
 title: "Gallery"
-permalink: /gallery/
+permalink: /mygallery/
 author_profile: true
 layout: single
 classes: wide
-gallery2:
+gallery:
   - url: /assets/images/header1.jpeg
     image_path: /assets/images/header1.jpeg
     alt: "placeholder image 1"
@@ -24,5 +24,5 @@ This is a gallery of photos.
 <img src="/assets/images/header1.jpeg" width="200" />
 Esto es una prueba
 
-{% include gallery2 caption="This is a sample gallery with **Markdown support**." %}
 
+ {% include gallery caption="This is a sample gallery with **Markdown support**." %}
