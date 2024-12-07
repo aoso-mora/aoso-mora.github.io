@@ -17,6 +17,18 @@ gallery:
     image_path: /assets/images/header1.jpeg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+  - url: /assets/images/header1.jpeg
+    image_path: /assets/images/header1.jpeg
+    alt: "placeholder image 4"
+    title: "Image 1 title caption"
+  - url: /assets/images/header1.jpeg
+    image_path: /assets/images/header1.jpeg
+    alt: "placeholder image 5"
+    title: "Image 2 title caption"
+  - url: /assets/images/header1.jpeg
+    image_path: /assets/images/header1.jpeg
+    alt: "placeholder image 6"
+    title: "Image 3 title caption"
 ---
 
 
