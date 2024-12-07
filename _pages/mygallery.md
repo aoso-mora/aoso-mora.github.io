@@ -42,3 +42,7 @@ Esto es una prueba
 
 
  {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+{% include video id="wNFPodmmW_o" provider="youtube" %}
+
+
