@@ -4,6 +4,8 @@ permalink: /gallery/
 author_profile: true
 layout: single
 classes: wide
+---
+
 gallery:
   - url: /assets/images/EURO.png
     image_path: /assets/images/EURO.png
@@ -21,5 +23,3 @@ gallery:
     image_path: /assets/images/EURO.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
----
-
