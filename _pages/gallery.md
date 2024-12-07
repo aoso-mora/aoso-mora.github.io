@@ -23,3 +23,8 @@ gallery:
 ## Hi
 
 This is a gallery of photos.
+
+
+<img src="/assets/images/header1.jpeg" width="200" />
+Esto es una prueba
+
