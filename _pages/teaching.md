@@ -10,10 +10,11 @@ class: wide
   <h1>RPTU Kaiserslautern, DE (Exercise Classes)</h1>
   
 Facility Location and Network Design (2024)<br>
-
 Master's Seminar (2024/2025).
 
 </header>
+
+<br>
 
 
 <header>
@@ -22,6 +23,8 @@ Master's Seminar (2024/2025).
   Project management (2019).<br>
   Economic engineering (2019).
 </header>
+
+<br>
 
 <header>
   <h1>Pontificia Universidad Javeriana de Cali, COL (Exercise Classes)</h1>
