@@ -7,18 +7,25 @@ class: wide
 ---
 
 <header>
+  <h1>RPTU Kaiserslautern, DE (Exercise Classes)</h1>
   
-  <p>
-<li><b>Facility Location and Network Design</b><br>Summer term 2024</li>
-</p>
+Facility Location and Network Design (2024)<br>
 
-<p>
-<li><b>Master's Seminar</b><br>Winter term 2024/2025</li>
-</p>
+Master's Seminar (2024/2025).
+
 </header>
 
 
-header>
+<header>
+  <h1>Universidadl del Bío-Bío, CL (Lectures) </h1>
+  Information structure and design (2019).<br>
+  Project management (2019).<br>
+  Economic engineering (2019).
+</header>
 
+<header>
+  <h1>Pontificia Universidad Javeriana de Cali, COL (Exercise Classes)</h1>
+  Optimization and transportation systems (2020).
+  
 </header>
 
