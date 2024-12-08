@@ -5,6 +5,7 @@ author_profile: true
 layout: single
 class: wide
 ---
+<br>
 
 <header>
   <h1>RPTU Kaiserslautern, DE (Exercise Classes)</h1>
