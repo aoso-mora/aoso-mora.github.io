@@ -30,6 +30,5 @@ Master's Seminar (2024/2025).
 <header>
   <h1>Pontificia Universidad Javeriana de Cali, COL (Exercise Classes)</h1>
   Optimization and transportation systems (2020).
-  y
 </header>
 
