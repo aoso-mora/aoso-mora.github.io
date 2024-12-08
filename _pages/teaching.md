@@ -20,7 +20,7 @@ Master's Seminar (2024/2025).
 
 <header>
   <h1>Universidad del Bío-Bío, CL (Lectures) </h1>
-  Information structure and design (2019).<br>
+  Information structures and design (2019).<br>
   Project management (2019).<br>
   Economic engineering (2019).
 </header>
