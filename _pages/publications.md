@@ -16,7 +16,7 @@ __An iterated local search algorithm for latency vehicle routing problems with m
 Jointly with [John Willmer Escobar](https://scholar.google.com/citations?user=RfTG9iIAAAAJ&hl=en) and [Paolo Toth](https://scholar.google.com/citations?user=2IPL4XIAAAAJ&hl=en)  
 In: [Computers & Operations Research](https://www.sciencedirect.com/journal/computers-and-operations-research). DOI: [10.1016/j.cor.2023.106293](https://www.sciencedirect.com/science/article/pii/S0305054823001570).   
 
-__An iterated local search algorithm for latency vehicle routing problems with multiple depots__  
+__Effective metaheuristics for the latency location routing problem__  
 Jointly with [Carlos Rey](https://scholar.google.com/citations?user=_VU2AugAAAAJ&hl=en), [Daniele Vigo](https://scholar.google.com/citations?user=2kk8d_AAAAAJ&hl=en) and [Paolo Toth](https://scholar.google.com/citations?user=2IPL4XIAAAAJ&hl=en)  
 In: [International Transactions in Operational Research](https://onlinelibrary.wiley.com/journal/14753995). DOI: [10.1111/itor.13294](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.13294). 
 
