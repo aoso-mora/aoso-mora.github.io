@@ -22,7 +22,23 @@ Jointly with [Carlos Rey](https://scholar.google.com/citations?user=_VU2AugAAAAJ
 In: [International Transactions in Operational Research](https://onlinelibrary.wiley.com/journal/14753995). DOI: [10.1111/itor.13294](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.13294). 
 
 
+<img src="/assets/images/TRE.jpg" width="200" />
 [Osorio-Mora, A.](https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ), [Escobar, J. W.](https://scholar.google.com/citations?user=RfTG9iIAAAAJ&hl=en), & [Toth, P](https://scholar.google.com/citations?user=2IPL4XIAAAAJ&hl=en). (2023). An iterated local search algorithm for latency vehicle routing problems with multiple depots. Computers & Operations Research, 158, 106293.
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
+    <img src="/assets/images/TRE.jpg" width="200" />
+
+    <div>
+        <a href="https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ">Osorio-Mora, A.</a>,
+        <a href="https://scholar.google.com/citations?user=RfTG9iIAAAAJ&hl=en">Escobar, J. W.</a>,
+        &amp;
+        <a href="https://scholar.google.com/citations?user=2IPL4XIAAAAJ&hl=en">Toth, P.</a>
+        (2023). An iterated local search algorithm for latency vehicle routing problems with multiple depots.
+        <em>Computers &amp; Operations Research, 158</em>, 106293.
+    </div>
+</div>
+
 
 ---
 
