@@ -75,8 +75,9 @@ In: [International Transactions in Operational Research](https://onlinelibrary.w
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
-    <img src="/assets/images/ITOR.jpeg" width="200" />
-
+    <img src="/assets/images/ITOR.jpeg" width="200"
+         style="width: 200px; height: 150px; object-fit: contain;" />
+        
     <div>
         <a href="https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ">Osorio-Mora, A.</a>,
         <a href="https://scholar.google.com/citations?user=_VU2AugAAAAJ&hl=en">Rey, C.</a>,
