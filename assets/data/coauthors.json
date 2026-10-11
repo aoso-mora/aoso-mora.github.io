@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {"id": "Andres Soto", "size": 20},
+    {"id": "Coauthor 1", "size": 10},
+    {"id": "Coauthor 2", "size": 8},
+    {"id": "Coauthor 3", "size": 6}
+  ],
+
+  "links": [
+    {"source": "Andres Soto", "target": "Coauthor 1", "weight": 5},
+    {"source": "Andres Soto", "target": "Coauthor 2", "weight": 3},
+    {"source": "Andres Soto", "target": "Coauthor 3", "weight": 2},
+    {"source": "Coauthor 1", "target": "Coauthor 2", "weight": 1}
+  ]
+}
