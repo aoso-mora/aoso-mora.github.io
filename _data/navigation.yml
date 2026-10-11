@@ -4,8 +4,6 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "Coauthor Network"
-    url: /coauthors/
   - title: "Teaching"
     url: /teaching/
   - title: "Gallery"
