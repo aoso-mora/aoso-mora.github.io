@@ -76,6 +76,7 @@ In: [International Transactions in Operational Research](https://onlinelibrary.w
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
+     <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/itor.13294" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/ITOR.jpeg" width="200"
          style="width: 200px; height: 150px; object-fit: contain;" />
         
