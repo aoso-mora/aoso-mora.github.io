@@ -23,8 +23,10 @@ In: [International Transactions in Operational Research](https://onlinelibrary.w
 
 
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
-    <img src="/assets/images/TRE.jpg" width="200" />
-
+    <a href="https://www.sciencedirect.com/science/article/pii/S1366554526006186?via%3Dihub" target="_blank">
+    <img src="/assets/images/TRE.jpg" width="200"
+         style="width: 200px; height: 150px; object-fit: contain;" />
+</a>
     <div>
         <a href="https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ">Osorio-Mora, A.</a>,
         <a href="https://scholar.google.com/citations?user=9XlvJEIAAAAJ&hl=en">Álvarez-Miranda, E.</a>,
@@ -36,8 +38,10 @@ In: [International Transactions in Operational Research](https://onlinelibrary.w
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
-    <img src="/assets/images/NET.jpg" width="200" />
-
+    <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70065" target="_blank">
+    <img src="/assets/images/NET.jpg" width="200"
+         style="width: 200px; height: 150px; object-fit: contain;" />
+</a>
     <div>
         <a href="https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ">Osorio-Mora, A.</a>,
         &amp;
@@ -48,8 +52,10 @@ In: [International Transactions in Operational Research](https://onlinelibrary.w
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
-    <img src="/assets/images/EJOR.jpg" width="200" />
-
+    <a href="https://www.sciencedirect.com/science/article/pii/S0377221724008440?via%3Dihub" target="_blank">
+    <img src="/assets/images/EJOR.jpg" width="200"
+         style="width: 200px; height: 150px; object-fit: contain;" />
+</a>
     <div>
         <a href="https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ">Osorio-Mora, A.</a>,
         <a href="https://scholar.google.com/citations?user=NPDmx4MAAAAJ&hl=en">Saldanha-da-Gama, F.</a>,
@@ -62,8 +68,10 @@ In: [International Transactions in Operational Research](https://onlinelibrary.w
 
 
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
-    <img src="/assets/images/CAOR.jpeg" width="200" 
-             style="width: 200px; height: 150px; object-fit: contain;" />
+    <a href="https://www.sciencedirect.com/science/article/pii/S0305054823001570" target="_blank">
+    <img src="/assets/images/CAOR.jpeg" width="200"
+         style="width: 200px; height: 150px; object-fit: contain;" />
+</a>
 
     <div>
         <a href="https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ">Osorio-Mora, A.</a>,
