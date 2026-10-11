@@ -29,7 +29,7 @@ classes: wide
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
     <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70065" target="_blank">
     <img src="/assets/images/NET.jpg" width="200"
-         style="width: 150px; height: 100px; object-fit: contain;" />
+         style="width: 160px; height: 140px; object-fit: contain;" />
 </a>
     <div>
         <a href="https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ">Osorio-Mora, A.</a>,
