@@ -95,6 +95,6 @@ In: [International Transactions in Operational Research](https://onlinelibrary.w
 
 ---
 
-## Research Collaborations
+## Pre-prints
 
-The network below illustrates my research collaborations
+
