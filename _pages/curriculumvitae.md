@@ -286,3 +286,15 @@ English · Spanish · Italian
   <p>Chair of Logistics, RPTU Kaiserslautern-Landau, Germany</p>
   <p><a href="mailto:gschwind@rptu.de">gschwind@rptu.de</a></p>
 </div>
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".page__content a").forEach(function (link) {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer");
+  });
+});
+</script>
