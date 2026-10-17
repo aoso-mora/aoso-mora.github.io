@@ -96,4 +96,20 @@ classes: wide
 
 ## Pre-prints
 
+<div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
+    <a href="https://wiwi.rptu.de/fileadmin/logistik.wiwi.uni-kl.de/publikationen/Artikel/L-2025_01.R1.pdf" target="_blank">
+    <img src="/assets/images/preprint.png" width="200"
+         style="width: 200px; height: 150px; object-fit: contain;" />
+</a>
+
+    <div>
+        <a href="https://scholar.google.com/citations?hl=en&user=yw4L-DQAAAAJ">Osorio-Mora, A.</a>,
+        <a href="https://scholar.google.com/citations?hl=en&user=-CglgGAAAAAJ">Campuzano, G.</a>,
+        <a href="https://scholar.google.com/citations?user=Y4cOc34AAAAJ&hl=en">Lalla-Ruiz, E.</a>
+        &amp;
+        <a href="https://scholar.google.com/citations?user=fpO-bEkAAAAJ&hl=en">Gschwind, T.</a>
+        (2023). The Cumulative Location Routing Problem: Algorithms and Models.
+    </div>
+</div>
+
 
