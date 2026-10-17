@@ -1,11 +1,12 @@
 ---
-layout: wide
+layout: single
 title: "Curriculum Vitae"
 permalink: /curriculumvitae/
 author_profile: true
 toc: true
 toc_label: "Contents"
 toc_sticky: true
+classes: wide
 ---
 
 # Alan Osorio Mora
