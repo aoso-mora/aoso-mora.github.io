@@ -22,131 +22,128 @@ search: false
    Academic CV
    ======================================== */
 
-.cv-header {
-  margin: 1rem 0 2.5rem;
+.page__content .cv-header {
+  margin: 1rem 0 3rem;
   padding: 1.5rem 0;
   border-bottom: 3px solid #315b7d;
 }
 
-.cv-header h1 {
-  margin: 0 0 0.35rem;
-  font-size: clamp(2rem, 4vw, 2.8rem);
+.page__content .cv-header h1 {
+  margin: 0 0 0.5rem;
+  font-size: 2.6rem;
+  line-height: 1.2;
   letter-spacing: -0.04em;
 }
 
-.cv-subtitle {
-  margin: 0 0 0.7rem;
+.page__content .cv-header .cv-subtitle {
+  margin: 0 0 0.8rem;
   color: #315b7d;
   font-size: 1.2rem;
   font-weight: 600;
 }
 
-.cv-header p {
-  margin-bottom: 0.5rem;
+.page__content .cv-header p {
+  margin: 0.5rem 0;
 }
 
-.cv-links {
+.page__content .cv-header .cv-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.6rem;
+  gap: 0.75rem;
   align-items: center;
 }
 
-.cv-links a {
+.page__content .cv-header .cv-links a {
+  color: #315b7d;
   font-weight: 600;
   text-decoration: none;
 }
 
-.cv-intro {
-  max-width: 850px;
-  line-height: 1.85;
+.page__content .cv-header .cv-links a:hover {
+  text-decoration: underline;
 }
 
-.cv-entry {
+.page__content .cv-entry {
   display: grid;
-  grid-template-columns: 135px minmax(0, 1fr);
-  gap: 1.4rem;
-  margin: 1.6rem 0;
-  padding-bottom: 1.4rem;
-  border-bottom: 1px solid #e5e7eb;
+  grid-template-columns: 145px minmax(0, 1fr);
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+  padding: 0 0 1.5rem;
+  border-bottom: 1px solid #e2e7ec;
 }
 
-.cv-date,
-.cv-pub-year {
+.page__content .cv-date,
+.page__content .cv-pub-year {
   color: #315b7d;
   font-weight: 700;
   font-variant-numeric: tabular-nums;
 }
 
-.cv-date {
+.page__content .cv-date {
   padding-top: 0.2rem;
 }
 
-.cv-details h3,
-.cv-reference h3 {
-  margin: 0 0 0.35rem;
+.page__content .cv-details h3,
+.page__content .cv-reference h3 {
+  margin: 0 0 0.4rem;
   font-size: 1.08rem;
 }
 
-.cv-details p {
+.page__content .cv-details p {
   margin: 0.4rem 0;
 }
 
-.cv-institution {
+.page__content .cv-institution {
+  color: #626b73;
   font-weight: 600;
-  color: #666;
 }
 
-.cv-publication {
+.page__content .cv-publication {
   display: grid;
-  grid-template-columns: 58px minmax(0, 1fr);
+  grid-template-columns: 55px minmax(0, 1fr);
   gap: 0.8rem;
-  margin: 1.15rem 0;
-  line-height: 1.75;
+  margin: 1.3rem 0;
+  line-height: 1.8;
 }
 
-.cv-publication a {
-  text-decoration: none;
+.page__content .cv-publication a {
+  color: #315b7d;
   font-weight: 600;
+  text-decoration: none;
 }
 
-.cv-publication a:hover,
-.cv-links a:hover {
+.page__content .cv-publication a:hover {
   text-decoration: underline;
 }
 
-.cv-reference {
+.page__content .cv-reference {
   margin: 1.5rem 0;
-  padding: 0 0 1rem 1rem;
+  padding: 0.2rem 0 1rem 1rem;
   border-left: 3px solid #315b7d;
 }
 
-.cv-reference p {
+.page__content .cv-reference p {
   margin: 0.3rem 0;
-}
-
-.cv-reference h3 {
-  margin-bottom: 0.5rem;
 }
 
 .page__content h2 {
   margin-top: 2.5rem;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.55rem;
   border-bottom: 1px solid #d8dee5;
 }
 
 @media (max-width: 600px) {
-  .cv-entry {
+  .page__content .cv-header h1 {
+    font-size: 2rem;
+  }
+
+  .page__content .cv-entry {
     grid-template-columns: 1fr;
     gap: 0.3rem;
   }
 
-  .cv-publication {
+  .page__content .cv-publication {
     grid-template-columns: 1fr;
-    gap: 0.15rem;
-  }
-
-  .cv-header {
-    padding: 1rem 0;
+    gap: 0.2rem;
   }
 }
