@@ -6,6 +6,7 @@ layout: single
 classes: wide
 ---
 
+If some file is not available please send me an email to alan.osoriomora@rptu.de.
 
 ## Journal Articles  
 
@@ -94,7 +95,7 @@ classes: wide
 
 ---
 
-## Pre-prints
+## Preprints
 
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
     <a href="https://wiwi.rptu.de/fileadmin/logistik.wiwi.uni-kl.de/publikationen/Artikel/L-2025_01.R1.pdf" target="_blank">
