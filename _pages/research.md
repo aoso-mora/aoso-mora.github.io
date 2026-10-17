@@ -108,7 +108,7 @@ classes: wide
         <a href="https://scholar.google.com/citations?user=Y4cOc34AAAAJ&hl=en">Lalla-Ruiz, E.</a>
         &amp;
         <a href="https://scholar.google.com/citations?user=fpO-bEkAAAAJ&hl=en">Gschwind, T.</a>
-        (2023). The Cumulative Location Routing Problem: Algorithms and Models.
+        (2025). The Cumulative Location Routing Problem: Algorithms and Models.
     </div>
 </div>
 
