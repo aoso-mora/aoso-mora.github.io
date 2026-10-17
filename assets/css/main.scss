@@ -147,4 +147,18 @@ search: false
     gap: 0.2rem;
   }
 }
+.cv-download {
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: 700;
+}
 
+.cv-download a {
+  color: #c62828 !important;
+  text-decoration: none;
+}
+
+.cv-download a:hover {
+  color: #8e0000 !important;
+  text-decoration: underline;
+}
