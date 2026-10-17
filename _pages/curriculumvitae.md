@@ -9,16 +9,18 @@ toc_sticky: true
 classes: wide
 ---
 
-# Alan Osorio Mora
-
-**Postdoctoral Researcher in Operations Research**
-
-RPTU Kaiserslautern-Landau, Germany
-
-- **Email:** [alan.osoriomora@rptu.de](mailto:alan.osoriomora@rptu.de)
-- **Phone:** +49 (0) 631 205 4977
-- **Google Scholar:** [Research profile](https://scholar.google.com/citations?user=yw4L-DQAAAAJ)
-- **ORCID:** [0000-0002-2040-5959](https://orcid.org/0000-0002-2040-5959)
+<div class="cv-header">
+  <h1>Alan Osorio Mora</h1>
+  <p class="cv-subtitle">Postdoctoral Researcher in Operations Research</p>
+  <p>
+    Chair of Logistics · RPTU Kaiserslautern-Landau · Germany
+  </p>
+  <p>
+    <a href="mailto:alan.osoriomora@rptu.de">Email</a> &nbsp;|&nbsp;
+    <a href="https://scholar.google.com/citations?user=yw4L-DQAAAAJ">Google Scholar</a> &nbsp;|&nbsp;
+    <a href="https://orcid.org/0000-0002-2040-5959">ORCID</a>
+  </p>
+</div>
 
 ## Research Interests
 
