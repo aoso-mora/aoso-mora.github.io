@@ -114,3 +114,21 @@ If some file is not available please send me an email to alan.osoriomora@rptu.de
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".page__content a").forEach(function (link) {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer");
+  });
+});
+</script>
