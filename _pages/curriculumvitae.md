@@ -25,7 +25,7 @@ classes: wide
 
 <p class="cv-download">
   <a href="{{ '/assets/documents/curriculum_vitae_AOM.pdf' | relative_url }}" target="_blank">
-    Get the PDF version of my CV here ↓
+    Get the PDF version here ↓
   </a>
 </p>
 
