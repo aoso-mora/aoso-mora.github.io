@@ -17,3 +17,136 @@ search: false
 .page__content {
   max-width: 1200px;
 }
+
+/* ========================================
+   Academic CV
+   ======================================== */
+
+.cv-header {
+  margin: 1rem 0 2.5rem;
+  padding: 1.5rem 0;
+  border-bottom: 3px solid #315b7d;
+}
+
+.cv-header h1 {
+  margin: 0 0 0.35rem;
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  letter-spacing: -0.04em;
+}
+
+.cv-subtitle {
+  margin: 0 0 0.7rem;
+  color: #315b7d;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.cv-header p {
+  margin-bottom: 0.5rem;
+}
+
+.cv-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+}
+
+.cv-links a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.cv-intro {
+  max-width: 850px;
+  line-height: 1.85;
+}
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: 135px minmax(0, 1fr);
+  gap: 1.4rem;
+  margin: 1.6rem 0;
+  padding-bottom: 1.4rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.cv-date,
+.cv-pub-year {
+  color: #315b7d;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.cv-date {
+  padding-top: 0.2rem;
+}
+
+.cv-details h3,
+.cv-reference h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.08rem;
+}
+
+.cv-details p {
+  margin: 0.4rem 0;
+}
+
+.cv-institution {
+  font-weight: 600;
+  color: #666;
+}
+
+.cv-publication {
+  display: grid;
+  grid-template-columns: 58px minmax(0, 1fr);
+  gap: 0.8rem;
+  margin: 1.15rem 0;
+  line-height: 1.75;
+}
+
+.cv-publication a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.cv-publication a:hover,
+.cv-links a:hover {
+  text-decoration: underline;
+}
+
+.cv-reference {
+  margin: 1.5rem 0;
+  padding: 0 0 1rem 1rem;
+  border-left: 3px solid #315b7d;
+}
+
+.cv-reference p {
+  margin: 0.3rem 0;
+}
+
+.cv-reference h3 {
+  margin-bottom: 0.5rem;
+}
+
+.page__content h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #d8dee5;
+}
+
+@media (max-width: 600px) {
+  .cv-entry {
+    grid-template-columns: 1fr;
+    gap: 0.3rem;
+  }
+
+  .cv-publication {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+
+  .cv-header {
+    padding: 1rem 0;
+  }
+}
