@@ -8,6 +8,20 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+
+/* Make the author profile avatar larger */
+.author__avatar {
+  width: 150px;
+  height: 150px;
+}
+
+.author__avatar img {
+  max-width: 150px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
 /* Wider homepage and page content */
 .page__inner-wrap {
   max-width: 1400px;
