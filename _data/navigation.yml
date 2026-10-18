@@ -6,6 +6,8 @@ main:
     url: /curriculumvitae/
   - title: "Research"
     url: /research/
+  - title: "Collaborations"
+    url: /collaborations/
   - title: "Teaching"
     url: /teaching/
   - title: "Gallery"
