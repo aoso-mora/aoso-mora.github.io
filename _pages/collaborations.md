@@ -1,10 +1,14 @@
-
 ---
 layout: single
 title: "Research Collaborations"
 permalink: /collaborations/
-author_profile: false
+author_profile: true
+toc: true
+toc_label: "Contents"
+toc_sticky: true
+classes: wide
 ---
+
 
 Explore my academic affiliations and research collaborations.
 
