@@ -156,15 +156,6 @@ programming, and optimization algorithms.
   <div><strong>Osorio-Mora, A.</strong>, Campuzano, G., Lalla-Ruiz, E., & Gschwind, T. <a href="https://wiwi.rptu.de/fileadmin/logistik.wiwi.uni-kl.de/publikationen/Artikel/L-2025_01.R1.pdf">The Cumulative Location Routing Problem: Algorithms and Models.</a></div>
 </div>
 
-<div class="cv-publication">
-  <span class="cv-pub-year">2026</span>
-  <div>Rey, C., <strong>Osorio-Mora, A.</strong>, & Toth, P. <em>A Two-Stage Stochastic Quadratic Multiple Knapsack Problem with Risk-Aversion.</em></div>
-</div>
-
-<div class="cv-publication">
-  <span class="cv-pub-year">2026</span>
-  <div>Campuzano, G., <strong>Osorio-Mora, A.</strong>, Lalla-Ruiz, E., Mes, M., & Toth, P. <em>The Variable-Speed Drone-Assisted Asymmetric Traveling Repairman Problem with Time Windows.</em></div>
-</div>
 
 ## Teaching Experience
 
